@@ -22,7 +22,7 @@ Changes files with "Original Ext" to the provided "New Ext"
 <br>
 
 <h3>Idea Behind Script</h3>
-<br>
+
 The main reasoning behind this script was just to introduce myself to powershell and its GUI features while at the same time solving a small issue I had.
 I had some trouble copying files over from my old Galaxy S8 to my computer so I decided to use a Samsung application to create a backup onto an SD card and then transfer that SD card over to my computer and do the backup that way.
 I found out later that the backup application changed the extentions of all my files to have an underscore at the end of it.
